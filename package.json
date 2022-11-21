@@ -1,0 +1,17 @@
+{
+  "name": "snowbotdc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.6.0",
+    "node-fetch": "^3.2.6"
+  },
+  "description": ""
+}
